@@ -5,7 +5,7 @@
 
 *案例1、混淆后图片变67字节被损坏变黑。
 just like this  -->  
-![](https://github.com/shoucanjun/obfuscate/blob/master/D1AB1FF6-74E9-44FE-A534-B3E47A8EC4E5.png?raw=true)
+![](https://github.com/shoucanjun/obfuscate/raw/master/D1AB1FF6-74E9-44FE-A534-B3E47A8EC4E5.png)
 
 解决：
 
